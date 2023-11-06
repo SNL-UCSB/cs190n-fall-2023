@@ -24,9 +24,9 @@ This repository contains the assignments and discussion sections for **CS190N: M
 | 3          | October 20th  | Exploratory Network Data Analysis |
 | 4          | October 27th  | netUnicorn (part 1)               |
 | 5          | November 3rd  | netUnicorn (part 2)               |
-| 6          | November 10th | Data Pre-Processing               |
-| 7          | November 17th | Trustee (part 1)                  |
-| 8          | November 24th | Trustee (part 2)                  |
+| 6          | November 10th | Veteran's Day (No Class)          |
+| 7          | November 17th | Data Pre-Processing               |
+| 8          | November 24th | Trustee                           |
 | 9          | December 1st  | Closed-loop Pipelines             |
 
 ## Assignments
@@ -34,10 +34,9 @@ This repository contains the assignments and discussion sections for **CS190N: M
 | Assignment | Released      | Due Date |
 |------------|--------------------------|---------|
 | 0          | October 9th   | None     |
-| 1          | October 16th  | TBD      |
-| 2          | October 30th  | TBD      |
-| 3          | November 13th | TBD      |
-| 4          | November 27th | TBD      |
+| 1          | October 16th  | October 27th      |
+| 2          | November 6th  | November 15th      |
+| 3          | November 20th | TBD      |
 
 ## Repository
 
