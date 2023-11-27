@@ -26,7 +26,7 @@ This repository contains the assignments and discussion sections for **CS190N: M
 | 5          | November 3rd  | netUnicorn (part 2)               |
 | 6          | November 10th | Veteran's Day (No Class)          |
 | 7          | November 17th | Data Pre-Processing               |
-| 8          | November 24th | Trustee                           |
+| 8          | November 24th | Thanksgiving (No Class)           |
 | 9          | December 1st  | Closed-loop Pipelines             |
 
 ## Assignments
