@@ -1,3 +1,5 @@
+# Project Checkpoint 2
+
 For this checkpoint, we will assess how the data collection process has been going for your group and your plan for feature selection and model training.
 
 1. Provide an update on the status of your data collection. Have you been able to successfully collect and label a packet trace collected through netunicorn for your project? If yes, how many traces have you collected? Do you plan to scale up your data collection any further?
